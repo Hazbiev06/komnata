@@ -1,0 +1,12 @@
+C:\Users\student\Desktop\Мажоров\RoomLibrary\RoomLibrary\bin\Debug\RoomLibrary.dll
+C:\Users\student\Desktop\Мажоров\RoomLibrary\RoomLibrary\bin\Debug\RoomLibrary.pdb
+C:\Users\student\Desktop\Мажоров\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Мажоров\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Мажоров\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.dll
+C:\Users\student\Desktop\Мажоров\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.pdb
+C:\Users\Huawei\Desktop\RoomLibrary\RoomLibrary\bin\Debug\RoomLibrary.dll
+C:\Users\Huawei\Desktop\RoomLibrary\RoomLibrary\bin\Debug\RoomLibrary.pdb
+C:\Users\Huawei\Desktop\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.csproj.AssemblyReference.cache
+C:\Users\Huawei\Desktop\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\Desktop\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.dll
+C:\Users\Huawei\Desktop\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.pdb
